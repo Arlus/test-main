@@ -1,0 +1,6 @@
+[submodule "models"]
+	path = models
+	url = https://github.com/Arlus/models.git
+[submodule "app/models"]
+	path = app/models
+	url = https://github.com/Arlus/models.git
